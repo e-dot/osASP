@@ -1,0 +1,8 @@
+Welcome to osASP. This is a shy attempt to provide open source Active Server Pages to the community 雾务 and a migration path from Windows to Linux for classic-ASP applications雾熙
+ 
+ Active Server Pages, ASP for short, are Microsoft伍西s server-side scripting technology, integrated within Internet Information Server (IIS) and based on javascript (jscript) or visual basic script (vbs). So far, Microsoft has always provided backward compatible operating systems for ASP 雾务 but this may not be always the case (classic ASP are disabled by default in latest Windows operating systems 雾务 this is a clear sign that this technology is obsolete and will not be supported some day).
+  
+  For more on ASP:
+   http://en.wikipedia.org/wiki/Active_Server_Pages
+
+
